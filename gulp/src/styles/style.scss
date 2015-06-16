@@ -1,0 +1,32 @@
+html{
+  height: 100%;
+}
+
+
+body {
+  background: linear-gradient(135deg, #371A5E, #0000FF);
+  background-repeat: no-repeat;
+  background-size:100%;
+
+}
+
+
+h1 {
+  text-align: center;
+  font-family: "bebas-neue";
+  font-size: 15em;
+  color: white;
+  display: inline-block;
+  margin-left: 10px;
+  transition:.3s ease-in-out;
+}
+
+h2{
+  color: white;
+  font-family: "bebas-neue";
+  font-size: 2em;
+  z-index: 1;
+  margin-left: 10px;
+
+ }
+  
