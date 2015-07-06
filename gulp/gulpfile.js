@@ -59,3 +59,7 @@ gulp.task('watch', function(){
 });
 
 gulp.task('default', ["server", "watch"]);
+
+
+// npm install gulp gulp-autoprefixer gulp-autoprefixer gulp-changed gulp-connect gulp-imagemin gulp-plumber gulp-sass vinyl-source-stream gulp-uglify browserify --save-dev
+// npm install jquery underscore --save
